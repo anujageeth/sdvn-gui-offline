@@ -1,0 +1,36 @@
+{
+  "title": "Detection Accuracy (MCC) versus Attack Intensity",
+  "generated": "2026-09-01",
+  "note": "Proposed-system series is the retrained detector (sigma_iat leak fix + fresh TA training data, see scratch/DCA/train_and_export_gbt_no_sigma_iat.py and train_and_export_gbt_ta_freshdata.py). Baseline series are single-mechanism detectors evaluated over the same attack_matrix runs, for reference only.",
+  "target_threshold": 0.80,
+  "series": [
+    {
+      "key": "proposed",
+      "label": "Proposed system (overall MCC)",
+      "color": "#38bdf8",
+      "x": [25, 50, 75, 100],
+      "y": [0.845, 0.810, 0.726, 0.659]
+    },
+    {
+      "key": "baseline1",
+      "label": "Baseline 1 (Sybil detection)",
+      "color": "#34d399",
+      "x": [20, 40, 60, 80],
+      "y": [0.074, 0.041, 0.007, 0.047]
+    },
+    {
+      "key": "baseline2",
+      "label": "Baseline 2 (Traffic analysis)",
+      "color": "#fbbf24",
+      "x": [25, 50, 75, 100],
+      "y": [0.0133, 0.0157, 0.0210, 0.0344]
+    },
+    {
+      "key": "baseline3",
+      "label": "Baseline 3 (DIM detection)",
+      "color": "#f97316",
+      "x": [20, 40, 60, 80],
+      "y": [0.225, 0.070, 0.023, 0.048]
+    }
+  ]
+}

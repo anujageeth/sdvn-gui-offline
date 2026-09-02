@@ -1,0 +1,7394 @@
+{
+  "pcts": [
+    0,
+    25,
+    50,
+    75,
+    100
+  ],
+  "attacks": {
+    "7": {
+      "attack": 7,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          0.957,
+          0.9569,
+          0.8915,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            0.957,
+            0.9569,
+            0.8915,
+            null
+          ],
+          "max": [
+            null,
+            0.957,
+            0.9569,
+            0.8915,
+            null
+          ],
+          "mean": [
+            null,
+            0.957,
+            0.9569,
+            0.8915,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1048.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1048.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 357.0,
+            "fp": 0.0,
+            "fn": 21.0,
+            "tn": 672.0
+          },
+          {
+            "tp": 398.0,
+            "fp": 0.0,
+            "fn": 22.0,
+            "tn": 630.0
+          },
+          {
+            "tp": 705.0,
+            "fp": 0.0,
+            "fn": 51.0,
+            "tn": 294.0
+          },
+          {
+            "tp": 889.0,
+            "fp": 0.0,
+            "fn": 161.0,
+            "tn": 0.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        0.9597,
+        0.5933
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          0.9597,
+          0.5933
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          0.9597,
+          0.5933
+        ]
+      },
+      "pdr": [
+        33.693,
+        32.7217,
+        31.8015,
+        21.875,
+        0.0
+      ],
+      "latency": {
+        "detect": [
+          7.64,
+          7.37,
+          8.26,
+          5.15,
+          5.79
+        ],
+        "drl": [
+          18.82,
+          22.15,
+          18.22,
+          13.97,
+          16.53
+        ],
+        "bc": [
+          653.67,
+          578.37,
+          626.31,
+          538.78,
+          424.18
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          680.13,
+          607.89,
+          652.79,
+          557.91,
+          446.5
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          3.049,
+          3.964,
+          7.363,
+          5.623
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "8": {
+      "attack": 8,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          0.9776,
+          0.9633,
+          0.8753,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            0.9776,
+            0.9633,
+            0.8753,
+            null
+          ],
+          "max": [
+            null,
+            0.9776,
+            0.9633,
+            0.8753,
+            null
+          ],
+          "mean": [
+            null,
+            0.9776,
+            0.9633,
+            0.8753,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 420.0,
+            "fp": 0.0,
+            "fn": 14.0,
+            "tn": 1116.0
+          },
+          {
+            "tp": 777.0,
+            "fp": 0.0,
+            "fn": 29.0,
+            "tn": 744.0
+          },
+          {
+            "tp": 1062.0,
+            "fp": 26.0,
+            "fn": 54.0,
+            "tn": 408.0
+          },
+          {
+            "tp": 1172.0,
+            "fp": 0.0,
+            "fn": 378.0,
+            "tn": 0.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1548.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 12.0,
+            "fn": 0.0,
+            "tn": 1538.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "pdr": [
+        48.2245,
+        31.3927,
+        28.3205,
+        14.6394,
+        5.3362
+      ],
+      "latency": {
+        "detect": [
+          6.28,
+          5.54,
+          5.49,
+          3.65,
+          3.0
+        ],
+        "drl": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bc": [
+          428.46,
+          457.47,
+          440.8,
+          341.18,
+          292.87
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          434.74,
+          463.01,
+          446.3,
+          344.83,
+          295.87
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          17.636,
+          13.389,
+          12.8,
+          11.953
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "9": {
+      "attack": 9,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          0.9489,
+          0.9397,
+          0.9022,
+          0.8089
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            0.9489,
+            0.9397,
+            0.9022,
+            0.8089
+          ],
+          "max": [
+            null,
+            0.9489,
+            0.9397,
+            0.9022,
+            0.8089
+          ],
+          "mean": [
+            null,
+            0.9489,
+            0.9397,
+            0.9022,
+            0.8089
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1548.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1548.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 253.0,
+            "fp": 0.0,
+            "fn": 23.0,
+            "tn": 1274.0
+          },
+          {
+            "tp": 553.0,
+            "fp": 0.0,
+            "fn": 45.0,
+            "tn": 952.0
+          },
+          {
+            "tp": 688.0,
+            "fp": 7.0,
+            "fn": 71.0,
+            "tn": 784.0
+          },
+          {
+            "tp": 1012.0,
+            "fp": 0.0,
+            "fn": 138.0,
+            "tn": 400.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "pdr": [
+        48.2245,
+        46.9586,
+        45.7547,
+        49.4019,
+        47.5854
+      ],
+      "latency": {
+        "detect": [
+          6.77,
+          6.86,
+          6.59,
+          8.63,
+          7.54
+        ],
+        "drl": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bc": [
+          427.68,
+          448.85,
+          436.71,
+          380.37,
+          362.07
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          434.45,
+          455.71,
+          443.31,
+          389.0,
+          369.61
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.143,
+          0.237,
+          0.374,
+          0.489
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "10": {
+      "attack": 10,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          0.6628,
+          0.6222,
+          0.5731,
+          0.5756
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            0.6628,
+            0.6222,
+            0.5731,
+            0.5756
+          ],
+          "max": [
+            null,
+            0.6628,
+            0.6222,
+            0.5731,
+            0.5756
+          ],
+          "mean": [
+            null,
+            0.6628,
+            0.6222,
+            0.5731,
+            0.5756
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1547.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 23.0,
+            "fn": 0.0,
+            "tn": 1527.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 85.0,
+            "fp": 46.0,
+            "fn": 31.0,
+            "tn": 1388.0
+          },
+          {
+            "tp": 85.0,
+            "fp": 45.0,
+            "fn": 45.0,
+            "tn": 1375.0
+          },
+          {
+            "tp": 116.0,
+            "fp": 62.0,
+            "fn": 78.0,
+            "tn": 1294.0
+          },
+          {
+            "tp": 179.0,
+            "fp": 96.0,
+            "fn": 96.0,
+            "tn": 1179.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "pdr": [
+        48.2245,
+        46.2772,
+        45.5899,
+        45.9336,
+        43.8717
+      ],
+      "latency": {
+        "detect": [
+          6.62,
+          7.45,
+          7.38,
+          8.18,
+          9.55
+        ],
+        "drl": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bc": [
+          428.5,
+          404.75,
+          399.93,
+          388.67,
+          375.88
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          435.12,
+          412.19,
+          407.31,
+          396.84,
+          385.43
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "11": {
+      "attack": 11,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          0.5451,
+          0.7961,
+          0.7963
+        ],
+        "EA": [
+          null,
+          0.9831,
+          0.9824,
+          0.9778,
+          0.9598
+        ],
+        "SI": [
+          null,
+          0.7824,
+          0.7702,
+          0.7451,
+          0.7235
+        ],
+        "DIM": [
+          null,
+          0.8473,
+          0.8157,
+          0.9159,
+          0.9216
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            0.5451,
+            0.7961,
+            0.7963
+          ],
+          "max": [
+            null,
+            null,
+            0.5451,
+            0.7961,
+            0.7963
+          ],
+          "mean": [
+            null,
+            null,
+            0.5451,
+            0.7961,
+            0.7963
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            0.9831,
+            0.9824,
+            0.9778,
+            0.9598
+          ],
+          "max": [
+            null,
+            0.9831,
+            0.9824,
+            0.9778,
+            0.9598
+          ],
+          "mean": [
+            null,
+            0.9831,
+            0.9824,
+            0.9778,
+            0.9598
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            0.7824,
+            0.7702,
+            0.7451,
+            0.7235
+          ],
+          "max": [
+            null,
+            0.7824,
+            0.7702,
+            0.7451,
+            0.7235
+          ],
+          "mean": [
+            null,
+            0.7824,
+            0.7702,
+            0.7451,
+            0.7235
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            0.8473,
+            0.8157,
+            0.9159,
+            0.9216
+          ],
+          "max": [
+            null,
+            0.8473,
+            0.8157,
+            0.9159,
+            0.9216
+          ],
+          "mean": [
+            null,
+            0.8473,
+            0.8157,
+            0.9159,
+            0.9216
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 30.0,
+            "fn": 0.0,
+            "tn": 1520.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 66.0,
+            "fn": 0.0,
+            "tn": 1484.0
+          },
+          {
+            "tp": 55.0,
+            "fp": 44.0,
+            "fn": 38.0,
+            "tn": 1413.0
+          },
+          {
+            "tp": 207.0,
+            "fp": 17.0,
+            "fn": 72.0,
+            "tn": 1254.0
+          },
+          {
+            "tp": 294.0,
+            "fp": 10.0,
+            "fn": 109.0,
+            "tn": 1137.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 60.0,
+            "fp": 0.0,
+            "fn": 2.0,
+            "tn": 1488.0
+          },
+          {
+            "tp": 120.0,
+            "fp": 0.0,
+            "fn": 4.0,
+            "tn": 1426.0
+          },
+          {
+            "tp": 299.0,
+            "fp": 0.0,
+            "fn": 11.0,
+            "tn": 1240.0
+          },
+          {
+            "tp": 379.0,
+            "fp": 0.0,
+            "fn": 24.0,
+            "tn": 1147.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1550.0
+          },
+          {
+            "tp": 12.0,
+            "fp": 6.0,
+            "fn": 1.0,
+            "tn": 1531.0
+          },
+          {
+            "tp": 21.0,
+            "fp": 11.0,
+            "fn": 2.0,
+            "tn": 1516.0
+          },
+          {
+            "tp": 43.0,
+            "fp": 22.0,
+            "fn": 7.0,
+            "tn": 1478.0
+          },
+          {
+            "tp": 53.0,
+            "fp": 28.0,
+            "fn": 11.0,
+            "tn": 1458.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 2.0,
+            "fn": 0.0,
+            "tn": 1548.0
+          },
+          {
+            "tp": 126.0,
+            "fp": 29.0,
+            "fn": 12.0,
+            "tn": 1383.0
+          },
+          {
+            "tp": 170.0,
+            "fp": 53.0,
+            "fn": 14.0,
+            "tn": 1313.0
+          },
+          {
+            "tp": 168.0,
+            "fp": 11.0,
+            "fn": 16.0,
+            "tn": 1355.0
+          },
+          {
+            "tp": 250.0,
+            "fp": 9.0,
+            "fn": 26.0,
+            "tn": 1265.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 124.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "pdr": [
+        48.2245,
+        46.894,
+        42.7696,
+        40.7569,
+        33.383
+      ],
+      "latency": {
+        "detect": [
+          6.86,
+          6.55,
+          6.45,
+          9.15,
+          5.62
+        ],
+        "drl": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bc": [
+          367.01,
+          338.23,
+          352.74,
+          367.68,
+          377.71
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          373.87,
+          344.78,
+          359.19,
+          376.83,
+          383.33
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.139,
+          0.811,
+          1.129,
+          1.128
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          41.353,
+          20.367,
+          18.885
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.06,
+          0.074,
+          0.073,
+          0.103
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          9.091,
+          0.0,
+          9.091
+        ]
+      }
+    },
+    "12": {
+      "attack": 12,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          0.9045,
+          0.866,
+          0.7746,
+          0.7746
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ],
+          "max": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ],
+          "mean": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 36.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 42.0
+          },
+          {
+            "tp": 54.0,
+            "fp": 0.0,
+            "fn": 9.0,
+            "tn": 21.0
+          },
+          {
+            "tp": 54.0,
+            "fp": 0.0,
+            "fn": 9.0,
+            "tn": 21.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pdr": [
+        33.693,
+        33.693,
+        33.693,
+        33.693,
+        33.693
+      ],
+      "latency": {
+        "detect": [
+          9.07,
+          12.95,
+          11.92,
+          9.39,
+          9.13
+        ],
+        "drl": [
+          25.55,
+          28.88,
+          26.23,
+          27.22,
+          26.55
+        ],
+        "bc": [
+          661.57,
+          645.73,
+          644.05,
+          644.22,
+          646.77
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          696.19,
+          687.56,
+          682.2,
+          680.84,
+          682.46
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "13": {
+      "attack": 13,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          0.9045,
+          0.866,
+          0.7746,
+          0.7746
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ],
+          "max": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ],
+          "mean": [
+            null,
+            0.9045,
+            0.866,
+            0.7746,
+            0.7746
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 36.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 42.0
+          },
+          {
+            "tp": 54.0,
+            "fp": 0.0,
+            "fn": 9.0,
+            "tn": 21.0
+          },
+          {
+            "tp": 54.0,
+            "fp": 0.0,
+            "fn": 9.0,
+            "tn": 21.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pdr": [
+        33.693,
+        33.693,
+        33.693,
+        33.693,
+        33.693
+      ],
+      "latency": {
+        "detect": [
+          9.76,
+          10.06,
+          9.49,
+          19.06,
+          9.76
+        ],
+        "drl": [
+          25.98,
+          27.49,
+          29.03,
+          25.65,
+          24.36
+        ],
+        "bc": [
+          662.41,
+          645.38,
+          644.54,
+          644.98,
+          645.51
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          698.15,
+          682.93,
+          683.07,
+          689.69,
+          679.63
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "14": {
+      "attack": 14,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          0.6,
+          0.5222,
+          0.3974,
+          0.3974
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            0.6,
+            0.5222,
+            0.3974,
+            0.3974
+          ],
+          "max": [
+            null,
+            0.6,
+            0.5222,
+            0.3974,
+            0.3974
+          ],
+          "mean": [
+            null,
+            0.6,
+            0.5222,
+            0.3974,
+            0.3974
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 9.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 24.0,
+            "tn": 42.0
+          },
+          {
+            "tp": 27.0,
+            "fp": 0.0,
+            "fn": 36.0,
+            "tn": 21.0
+          },
+          {
+            "tp": 27.0,
+            "fp": 0.0,
+            "fn": 36.0,
+            "tn": 21.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pdr": [
+        32.7605,
+        32.7605,
+        32.7605,
+        32.7605,
+        32.7605
+      ],
+      "latency": {
+        "detect": [
+          15.62,
+          14.72,
+          8.85,
+          13.06,
+          15.98
+        ],
+        "drl": [
+          24.23,
+          26.29,
+          23.56,
+          24.94,
+          23.99
+        ],
+        "bc": [
+          672.77,
+          666.37,
+          665.86,
+          665.82,
+          666.23
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          712.62,
+          707.38,
+          698.26,
+          703.82,
+          706.2
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "15": {
+      "attack": 15,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_SI": [
+          null,
+          0.8076,
+          0.7454,
+          0.6202,
+          0.6202
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            0.8076,
+            0.7454,
+            0.6202,
+            0.6202
+          ],
+          "max": [
+            null,
+            0.8076,
+            0.7454,
+            0.6202,
+            0.6202
+          ],
+          "mean": [
+            null,
+            0.8076,
+            0.7454,
+            0.6202,
+            0.6202
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 3.0,
+            "fn": 0.0,
+            "tn": 1047.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 30.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 42.0
+          },
+          {
+            "tp": 45.0,
+            "fp": 0.0,
+            "fn": 18.0,
+            "tn": 21.0
+          },
+          {
+            "tp": 45.0,
+            "fp": 0.0,
+            "fn": 18.0,
+            "tn": 21.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pdr": [
+        33.693,
+        31.3747,
+        33.75,
+        35.1415,
+        35.1415
+      ],
+      "latency": {
+        "detect": [
+          16.2,
+          15.1,
+          15.84,
+          15.39,
+          8.6
+        ],
+        "drl": [
+          29.28,
+          26.03,
+          27.02,
+          27.86,
+          26.8
+        ],
+        "bc": [
+          663.25,
+          659.04,
+          647.76,
+          658.74,
+          658.3
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          708.73,
+          700.17,
+          690.62,
+          702.0,
+          693.7
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "16": {
+      "attack": 16,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "EA": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "SI": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          0.9045,
+          0.9045
+        ],
+        "CC_EA": [
+          null,
+          0.9045,
+          null,
+          0.9045,
+          0.9045
+        ],
+        "CC_SI": [
+          null,
+          null,
+          0.8076,
+          0.8076,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          0.6,
+          null,
+          0.6
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "max": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "mean": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ],
+          "max": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ],
+          "mean": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 1.0,
+            "fn": 0.0,
+            "tn": 1049.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 9.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 9.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 63.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pdr": [
+        32.7605,
+        32.7605,
+        32.2581,
+        29.5028,
+        32.7605
+      ],
+      "latency": {
+        "detect": [
+          8.85,
+          7.3,
+          7.86,
+          16.29,
+          8.63
+        ],
+        "drl": [
+          25.71,
+          22.56,
+          22.74,
+          25.16,
+          24.15
+        ],
+        "bc": [
+          669.5,
+          651.5,
+          656.95,
+          644.5,
+          652.45
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          704.06,
+          681.37,
+          687.56,
+          685.94,
+          685.23
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "lieta_m": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "17": {
+      "attack": 17,
+      "pcts": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "mcc": {
+        "TA": [
+          null,
+          0.579,
+          0.4301,
+          0.5227,
+          0.5404
+        ],
+        "EA": [
+          null,
+          0.792,
+          0.6607,
+          0.7336,
+          0.6922
+        ],
+        "SI": [
+          null,
+          0.4993,
+          null,
+          null,
+          null
+        ],
+        "DIM": [
+          null,
+          null,
+          0.6178,
+          null,
+          0.1572
+        ],
+        "CC_TA": [
+          null,
+          null,
+          null,
+          0.9045,
+          0.9045
+        ],
+        "CC_EA": [
+          null,
+          0.9045,
+          null,
+          0.9045,
+          0.9045
+        ],
+        "CC_SI": [
+          null,
+          null,
+          0.8076,
+          0.8076,
+          null
+        ],
+        "CC_DIM": [
+          null,
+          null,
+          0.6,
+          null,
+          0.6
+        ]
+      },
+      "mcc_bands": {
+        "TA": {
+          "min": [
+            null,
+            0.579,
+            0.4301,
+            0.5227,
+            0.5404
+          ],
+          "max": [
+            null,
+            0.579,
+            0.4301,
+            0.5227,
+            0.5404
+          ],
+          "mean": [
+            null,
+            0.579,
+            0.4301,
+            0.5227,
+            0.5404
+          ]
+        },
+        "EA": {
+          "min": [
+            null,
+            0.792,
+            0.6607,
+            0.7336,
+            0.6922
+          ],
+          "max": [
+            null,
+            0.792,
+            0.6607,
+            0.7336,
+            0.6922
+          ],
+          "mean": [
+            null,
+            0.792,
+            0.6607,
+            0.7336,
+            0.6922
+          ]
+        },
+        "SI": {
+          "min": [
+            null,
+            0.4993,
+            null,
+            null,
+            null
+          ],
+          "max": [
+            null,
+            0.4993,
+            null,
+            null,
+            null
+          ],
+          "mean": [
+            null,
+            0.4993,
+            null,
+            null,
+            null
+          ]
+        },
+        "DIM": {
+          "min": [
+            null,
+            null,
+            0.6178,
+            null,
+            0.1572
+          ],
+          "max": [
+            null,
+            null,
+            0.6178,
+            null,
+            0.1572
+          ],
+          "mean": [
+            null,
+            null,
+            0.6178,
+            null,
+            0.1572
+          ]
+        },
+        "CC_TA": {
+          "min": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "max": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "mean": [
+            null,
+            null,
+            null,
+            0.9045,
+            0.9045
+          ]
+        },
+        "CC_EA": {
+          "min": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "max": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ],
+          "mean": [
+            null,
+            0.9045,
+            null,
+            0.9045,
+            0.9045
+          ]
+        },
+        "CC_SI": {
+          "min": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ],
+          "max": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ],
+          "mean": [
+            null,
+            null,
+            0.8076,
+            0.8076,
+            null
+          ]
+        },
+        "CC_DIM": {
+          "min": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ],
+          "max": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ],
+          "mean": [
+            null,
+            null,
+            0.6,
+            null,
+            0.6
+          ]
+        }
+      },
+      "cells": {
+        "TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 22.0,
+            "fp": 0.0,
+            "fn": 41.0,
+            "tn": 987.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 3.0,
+            "fn": 48.0,
+            "tn": 984.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 45.0,
+            "tn": 987.0
+          },
+          {
+            "tp": 26.0,
+            "fp": 0.0,
+            "fn": 58.0,
+            "tn": 966.0
+          }
+        ],
+        "EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 80.0,
+            "fp": 36.0,
+            "fn": 4.0,
+            "tn": 930.0
+          },
+          {
+            "tp": 40.0,
+            "fp": 43.0,
+            "fn": 2.0,
+            "tn": 965.0
+          },
+          {
+            "tp": 60.0,
+            "fp": 41.0,
+            "fn": 3.0,
+            "tn": 946.0
+          },
+          {
+            "tp": 60.0,
+            "fp": 52.0,
+            "fn": 3.0,
+            "tn": 935.0
+          }
+        ],
+        "SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 1.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 1046.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          }
+        ],
+        "DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 13.0,
+            "tn": 1037.0
+          },
+          {
+            "tp": 5.0,
+            "fp": 0.0,
+            "fn": 8.0,
+            "tn": 1037.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 1050.0
+          },
+          {
+            "tp": 1.0,
+            "fp": 0.0,
+            "fn": 38.0,
+            "tn": 1011.0
+          }
+        ],
+        "CC_TA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          }
+        ],
+        "CC_EA": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 18.0,
+            "fp": 0.0,
+            "fn": 3.0,
+            "tn": 63.0
+          }
+        ],
+        "CC_SI": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 15.0,
+            "fp": 0.0,
+            "fn": 6.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          }
+        ],
+        "CC_DIM": [
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 9.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 63.0
+          },
+          {
+            "tp": 0.0,
+            "fp": 0.0,
+            "fn": 0.0,
+            "tn": 84.0
+          },
+          {
+            "tp": 9.0,
+            "fp": 0.0,
+            "fn": 12.0,
+            "tn": 63.0
+          }
+        ]
+      },
+      "mcc_k9": [
+        0.0,
+        0.7716,
+        0.7204,
+        0.8223,
+        0.7277
+      ],
+      "mcc_k9_band": {
+        "min": [
+          0.0,
+          0.7716,
+          0.7204,
+          0.8223,
+          0.7277
+        ],
+        "max": [
+          0.0,
+          0.7716,
+          0.7204,
+          0.8223,
+          0.7277
+        ]
+      },
+      "pdr": [
+        32.7605,
+        37.0595,
+        37.2902,
+        35.1384,
+        35.9906
+      ],
+      "latency": {
+        "detect": [
+          16.38,
+          15.82,
+          7.83,
+          7.78,
+          7.95
+        ],
+        "drl": [
+          18.92,
+          23.2,
+          24.3,
+          17.67,
+          20.52
+        ],
+        "bc": [
+          669.27,
+          637.15,
+          616.79,
+          618.34,
+          613.53
+        ],
+        "dkg": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total": [
+          704.57,
+          676.17,
+          648.93,
+          643.78,
+          642.0
+        ]
+      },
+      "success_metrics": {
+        "ifrea": [
+          0.0,
+          0.525,
+          0.315,
+          0.315,
+          0.315
+        ],
+        "lieta_m": [
+          0.0,
+          41.191,
+          44.856,
+          45.353,
+          49.896
+        ],
+        "fiirsi": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "mfrdim": [
+          0.0,
+          0.005,
+          0.0,
+          0.0,
+          0.019
+        ],
+        "asl_mean": [
+          0.0,
+          0.0,
+          3.03,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "mcc": {
+    "TA": [
+      null,
+      0.579,
+      0.4301,
+      0.5227,
+      0.5404
+    ],
+    "EA": [
+      null,
+      0.792,
+      0.6607,
+      0.7336,
+      0.6922
+    ],
+    "SI": [
+      null,
+      0.4993,
+      null,
+      null,
+      null
+    ],
+    "DIM": [
+      null,
+      null,
+      0.6178,
+      null,
+      0.1572
+    ],
+    "CC_TA": [
+      null,
+      null,
+      null,
+      0.9045,
+      0.9045
+    ],
+    "CC_EA": [
+      null,
+      0.9045,
+      null,
+      0.9045,
+      0.9045
+    ],
+    "CC_SI": [
+      null,
+      null,
+      0.8076,
+      0.8076,
+      null
+    ],
+    "CC_DIM": [
+      null,
+      null,
+      0.6,
+      null,
+      0.6
+    ]
+  },
+  "mcc_bands": {
+    "TA": {
+      "min": [
+        null,
+        0.579,
+        0.4301,
+        0.5227,
+        0.5404
+      ],
+      "max": [
+        null,
+        0.579,
+        0.4301,
+        0.5227,
+        0.5404
+      ],
+      "mean": [
+        null,
+        0.579,
+        0.4301,
+        0.5227,
+        0.5404
+      ]
+    },
+    "EA": {
+      "min": [
+        null,
+        0.792,
+        0.6607,
+        0.7336,
+        0.6922
+      ],
+      "max": [
+        null,
+        0.792,
+        0.6607,
+        0.7336,
+        0.6922
+      ],
+      "mean": [
+        null,
+        0.792,
+        0.6607,
+        0.7336,
+        0.6922
+      ]
+    },
+    "SI": {
+      "min": [
+        null,
+        0.4993,
+        null,
+        null,
+        null
+      ],
+      "max": [
+        null,
+        0.4993,
+        null,
+        null,
+        null
+      ],
+      "mean": [
+        null,
+        0.4993,
+        null,
+        null,
+        null
+      ]
+    },
+    "DIM": {
+      "min": [
+        null,
+        null,
+        0.6178,
+        null,
+        0.1572
+      ],
+      "max": [
+        null,
+        null,
+        0.6178,
+        null,
+        0.1572
+      ],
+      "mean": [
+        null,
+        null,
+        0.6178,
+        null,
+        0.1572
+      ]
+    },
+    "CC_TA": {
+      "min": [
+        null,
+        null,
+        null,
+        0.9045,
+        0.9045
+      ],
+      "max": [
+        null,
+        null,
+        null,
+        0.9045,
+        0.9045
+      ],
+      "mean": [
+        null,
+        null,
+        null,
+        0.9045,
+        0.9045
+      ]
+    },
+    "CC_EA": {
+      "min": [
+        null,
+        0.9045,
+        null,
+        0.9045,
+        0.9045
+      ],
+      "max": [
+        null,
+        0.9045,
+        null,
+        0.9045,
+        0.9045
+      ],
+      "mean": [
+        null,
+        0.9045,
+        null,
+        0.9045,
+        0.9045
+      ]
+    },
+    "CC_SI": {
+      "min": [
+        null,
+        null,
+        0.8076,
+        0.8076,
+        null
+      ],
+      "max": [
+        null,
+        null,
+        0.8076,
+        0.8076,
+        null
+      ],
+      "mean": [
+        null,
+        null,
+        0.8076,
+        0.8076,
+        null
+      ]
+    },
+    "CC_DIM": {
+      "min": [
+        null,
+        null,
+        0.6,
+        null,
+        0.6
+      ],
+      "max": [
+        null,
+        null,
+        0.6,
+        null,
+        0.6
+      ],
+      "mean": [
+        null,
+        null,
+        0.6,
+        null,
+        0.6
+      ]
+    }
+  },
+  "cells": {
+    "TA": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 22.0,
+        "fp": 0.0,
+        "fn": 41.0,
+        "tn": 987.0
+      },
+      {
+        "tp": 15.0,
+        "fp": 3.0,
+        "fn": 48.0,
+        "tn": 984.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 45.0,
+        "tn": 987.0
+      },
+      {
+        "tp": 26.0,
+        "fp": 0.0,
+        "fn": 58.0,
+        "tn": 966.0
+      }
+    ],
+    "EA": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 80.0,
+        "fp": 36.0,
+        "fn": 4.0,
+        "tn": 930.0
+      },
+      {
+        "tp": 40.0,
+        "fp": 43.0,
+        "fn": 2.0,
+        "tn": 965.0
+      },
+      {
+        "tp": 60.0,
+        "fp": 41.0,
+        "fn": 3.0,
+        "tn": 946.0
+      },
+      {
+        "tp": 60.0,
+        "fp": 52.0,
+        "fn": 3.0,
+        "tn": 935.0
+      }
+    ],
+    "SI": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 1.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 1046.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      }
+    ],
+    "DIM": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 13.0,
+        "tn": 1037.0
+      },
+      {
+        "tp": 5.0,
+        "fp": 0.0,
+        "fn": 8.0,
+        "tn": 1037.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 1050.0
+      },
+      {
+        "tp": 1.0,
+        "fp": 0.0,
+        "fn": 38.0,
+        "tn": 1011.0
+      }
+    ],
+    "CC_TA": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 63.0
+      }
+    ],
+    "CC_EA": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 18.0,
+        "fp": 0.0,
+        "fn": 3.0,
+        "tn": 63.0
+      }
+    ],
+    "CC_SI": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 15.0,
+        "fp": 0.0,
+        "fn": 6.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 15.0,
+        "fp": 0.0,
+        "fn": 6.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      }
+    ],
+    "CC_DIM": [
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 9.0,
+        "fp": 0.0,
+        "fn": 12.0,
+        "tn": 63.0
+      },
+      {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 0.0,
+        "tn": 84.0
+      },
+      {
+        "tp": 9.0,
+        "fp": 0.0,
+        "fn": 12.0,
+        "tn": 63.0
+      }
+    ]
+  },
+  "mcc_k9": [
+    0.0,
+    0.7716,
+    0.7204,
+    0.8223,
+    0.7277
+  ],
+  "mcc_k9_band": {
+    "min": [
+      0.0,
+      0.7716,
+      0.7204,
+      0.8223,
+      0.7277
+    ],
+    "max": [
+      0.0,
+      0.7716,
+      0.7204,
+      0.8223,
+      0.7277
+    ]
+  },
+  "pdr": [
+    32.7605,
+    37.0595,
+    37.2902,
+    35.1384,
+    35.9906
+  ],
+  "latency": {
+    "detect": [
+      16.38,
+      15.82,
+      7.83,
+      7.78,
+      7.95
+    ],
+    "drl": [
+      18.92,
+      23.2,
+      24.3,
+      17.67,
+      20.52
+    ],
+    "bc": [
+      669.27,
+      637.15,
+      616.79,
+      618.34,
+      613.53
+    ],
+    "dkg": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "total": [
+      704.57,
+      676.17,
+      648.93,
+      643.78,
+      642.0
+    ]
+  },
+  "success_metrics": {
+    "ifrea": [
+      0.0,
+      0.525,
+      0.315,
+      0.315,
+      0.315
+    ],
+    "lieta_m": [
+      0.0,
+      41.191,
+      44.856,
+      45.353,
+      49.896
+    ],
+    "fiirsi": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "mfrdim": [
+      0.0,
+      0.005,
+      0.0,
+      0.0,
+      0.019
+    ],
+    "asl_mean": [
+      0.0,
+      0.0,
+      3.03,
+      0.0,
+      0.0
+    ]
+  },
+  "headline_attack": 17
+}

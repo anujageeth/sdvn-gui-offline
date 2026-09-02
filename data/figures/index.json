@@ -1,0 +1,35 @@
+{
+  "generated": "20260902_162811",
+  "source": "results_per_class_8attacks_20260902_162811",
+  "inlined": false,
+  "figures": [
+    {
+      "file": "F1_mcc_per_class_8attacks.png",
+      "tag": "F1",
+      "title": "Per-class MCC across the eight attack classes",
+      "note": "One-vs-rest MCC at 25/50/75/100% penetration. Solid bars are vehicle detection windows; dotted bars are controller cycles, where CC-DIM and CC-SI are scored on their blockchain signals. CC-TA and CC-EA have only the LLM channel, which is identically zero here, so their MCC is undefined rather than filled in.",
+      "alt": "Per-class MCC across the eight attack classes"
+    },
+    {
+      "file": "F2_mcc_vs_penetration_dataplane.png",
+      "tag": "F2",
+      "title": "Data-plane per-class MCC vs penetration",
+      "note": "Each class measured twice: in its own episode, and inside the concurrent all-four episode. TA degrades sharply under concurrency; SI improves.",
+      "alt": "Data-plane per-class MCC vs penetration"
+    },
+    {
+      "file": "F3_dataplane_impact_metrics.png",
+      "tag": "F3",
+      "title": "The four per-attack impact metrics",
+      "note": "IFREA, LIETA, FIIRSI, MFRDIM. FIIRSI is 0.000 at every penetration -- no fake identity is ever accepted once blockchain registration is on. IFREA is a per-flow interception multiplicity, not a ratio, so it exceeds 1.0 legitimately.",
+      "alt": "The four per-attack impact metrics"
+    },
+    {
+      "file": "F4_cc_payoff_metrics.png",
+      "tag": "F4",
+      "title": "Controller-compromise payoff, not detection",
+      "note": "What the CC classes actually measure: NER, DER, RFR, PFER. Every curve is flat from 75% to 100% -- compromise saturates below full penetration.",
+      "alt": "Controller-compromise payoff, not detection"
+    }
+  ]
+}

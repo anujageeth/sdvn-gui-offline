@@ -1,0 +1,151 @@
+{
+  "intensity_pct": 60,
+  "plane": "data",
+  "attacks": {
+    "EA": {
+      "attack_number": 7,
+      "label": "IFR_EA \u2014 Intercepted Flow Ratio",
+      "unit": "",
+      "source_file": "HELLO_EA_60_ep30022.csv",
+      "cycles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "current": [
+        0.0,
+        4.41602,
+        7.20777,
+        7.57589,
+        7.95901,
+        7.81578,
+        8.32646
+      ],
+      "average": [
+        0.0,
+        2.20801,
+        3.8746,
+        4.79992,
+        5.43174,
+        5.82908,
+        6.18585
+      ],
+      "note": null
+    },
+    "TA": {
+      "attack_number": 8,
+      "label": "LIE_TA \u2014 Location Inference Error",
+      "unit": "m",
+      "source_file": "HELLO_TA_60_ep20007.csv",
+      "cycles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "current": [
+        0.0,
+        59.7687,
+        32.6968,
+        43.7432,
+        22.6798,
+        24.3722,
+        24.7401
+      ],
+      "average": [
+        0.0,
+        29.8843,
+        30.8218,
+        34.0522,
+        31.7777,
+        30.5434,
+        29.7144
+      ],
+      "note": null
+    },
+    "DIM": {
+      "attack_number": 9,
+      "label": "MFR_DIM \u2014 Message Falsification Rate",
+      "unit": "",
+      "source_file": "HELLO_DIM_60_ep1960.csv",
+      "cycles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "current": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.195941,
+        0.239596,
+        0.25034,
+        0.276451,
+        0.280496,
+        0.306466
+      ],
+      "average": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0391882,
+        0.0725895,
+        0.0979824,
+        0.120291,
+        0.138091,
+        0.154929
+      ],
+      "note": null
+    },
+    "SI": {
+      "attack_number": 10,
+      "label": "FIIR_SI \u2014 Fake Identity Injection Rate",
+      "unit": "",
+      "source_file": "HELLO_SI_60.csv",
+      "cycles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "current": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "average": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "note": "FIIR_SI = 0 at every cycle across every SI run in the dataset, at every intensity. This is the blockchain registration check working as designed (DCA.cc:112598-112611, eq 3.49/3.23): a phantom identity index is never present in pqc_blockchain_registered[], so sybil_fake_packets_accepted cannot increment. Not missing data."
+    }
+  }
+}
